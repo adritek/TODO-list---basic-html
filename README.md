@@ -1,5 +1,6 @@
-# New Project
+# To Do App - Snowpack edition
 
+> TypeScript browser native todo app that persists to localstorage  
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
 ## Available Scripts
